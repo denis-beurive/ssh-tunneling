@@ -87,5 +87,5 @@ host1:
 	nc host2 8888
 	PING
 
-![](illustrations/ssh-remote-forwarding3.png)
+![](illustrations/ssh-local-forwarding3.png)
 
