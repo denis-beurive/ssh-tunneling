@@ -98,4 +98,4 @@ On host4:
 	nc gateway2 7777
 	PING
 
-![](../illustrations/ssh-remote-forwarding3.png)
+![](illustrations/ssh-remote-forwarding3.png)
